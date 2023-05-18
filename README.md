@@ -26,4 +26,4 @@
 | 2023-05-15 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | ✅     | ✅     |        |        |
 | 2023-05-16 | [큐](https://www.acmicpc.net/problem/10845)                | ✅     | ✅     |        |        |
 | 2023-05-17 | [덱](https://www.acmicpc.net/problem/10866)                | ✅     | ✅     | ✅     | ✅     |
-| 2023-05-18 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)       |        |        |        |        |
+| 2023-05-18 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)       | ✅     | ✅     |        |        |
