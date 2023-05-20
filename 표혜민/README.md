@@ -18,3 +18,4 @@
    8. [[2023.05.16][10845][data structure][queue] DAY8 : 큐](https://www.acmicpc.net/source/60788891)
    9. [[2023.05.17][10866][data structure][deque] DAY8 : 덱](https://www.acmicpc.net/source/60886868)
    10. [[2023.05.18][10816][data structure][hash][binary search][sort] DAY10 : 숫자카드 2](https://www.acmicpc.net/source/60952461)
+   11. [[2023.05.18][2798][bruterforce] DAY11 : 블랙잭](https://www.acmicpc.net/source/61028312)
