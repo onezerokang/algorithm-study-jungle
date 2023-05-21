@@ -1,4 +1,4 @@
-# https://www.acmicpc.net/problem/2893
+# https://www.acmicpc.net/problem/2839
 # logic
 # 배달하는 설탕 무게 N을 5와 3의 봉지 개수가 최소가 되도록
 # 봉지 개수 == 몫
