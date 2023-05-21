@@ -28,4 +28,5 @@
 | 2023-05-17 | [덱](https://www.acmicpc.net/problem/10866)                     | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-18 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)            | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-19 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | ✅     | ✅     | ✅     | ✅     |
-| 2023-05-19 | [블랙잭](https://www.acmicpc.net/problem/2798)                  | ✅     | ✅     |   ✅     |   ✅     |
+| 2023-05-20 | [블랙잭](https://www.acmicpc.net/problem/2798)                  | ✅     | ✅     | ✅     | ✅     |
+| 2023-05-21 | [설탕배달](https://www.acmicpc.net/problem/2839)                | ✅     | ✅     | ✅     | ✅     |
