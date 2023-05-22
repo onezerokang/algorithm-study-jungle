@@ -9,3 +9,5 @@ def bino_coef(n, k):
 n, k = map(int, input().split())
 
 print(bino_coef(n, k))
+
+# 재귀
