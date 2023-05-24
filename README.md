@@ -21,14 +21,15 @@
 - ✅ : 제출 완료
 - ❌ : 미제출
 
-| 날짜       | 문제                                                            | 표혜민 | 강원영 | 박주영 | 장재균 |
+| 날짜       | 문제                                                            | 강원영 | 박주영 | 장재균 | 표혜민 |
 | ---------- | --------------------------------------------------------------- | ------ | ------ | ------ | ------ |
-| 2023-05-15 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)      | ✅     | ✅     |        |        |
-| 2023-05-16 | [큐](https://www.acmicpc.net/problem/10845)                     | ✅     | ✅     |        |        |
+| 2023-05-15 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)      | ✅     |        |        | ✅     |
+| 2023-05-16 | [큐](https://www.acmicpc.net/problem/10845)                     | ✅     |        |        | ✅     |
 | 2023-05-17 | [덱](https://www.acmicpc.net/problem/10866)                     | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-18 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)            | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-19 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-20 | [블랙잭](https://www.acmicpc.net/problem/2798)                  | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-21 | [설탕배달](https://www.acmicpc.net/problem/2839)                | ✅     | ✅     | ✅     | ✅     |
-| 2023-05-22 | [이항계수](https://www.acmicpc.net/problem/11050)               |        | ✅     | ✅     | ✅     |
-| 2023-05-23 | [2xn 타일링](https://www.acmicpc.net/problem/11726)             |        | ✅     | ✅     | ✅     |
+| 2023-05-22 | [이항계수](https://www.acmicpc.net/problem/11050)               | ❌     | ✅     | ✅     | ✅     |
+| 2023-05-23 | [2xn 타일링](https://www.acmicpc.net/problem/11726)             | ✅     | ✅     | ✅     | ✅     |
+| 2023-05-24 | [ATM](https://www.acmicpc.net/problem/11399)                    |        |        |        | ✅     |
