@@ -30,6 +30,6 @@
 | 2023-05-19 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-20 | [블랙잭](https://www.acmicpc.net/problem/2798)                  | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-21 | [설탕배달](https://www.acmicpc.net/problem/2839)                | ✅     | ✅     | ✅     | ✅     |
-| 2023-05-22 | [이항계수](https://www.acmicpc.net/problem/11050) ❌            |        | ✅     | ✅     | ✅     |
-| 2023-05-23 | [2xn 타일링](https://www.acmicpc.net/problem/11726) ✅          | ✅     | ✅     | ✅     | ✅     |
+| 2023-05-22 | [이항계수](https://www.acmicpc.net/problem/11050)               | ❌     | ✅     | ✅     | ✅     |
+| 2023-05-23 | [2xn 타일링](https://www.acmicpc.net/problem/11726)             | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-24 | [ATM](https://www.acmicpc.net/problem/11399)                    | ✅     |        |        |        |
