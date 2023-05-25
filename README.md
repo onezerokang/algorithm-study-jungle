@@ -33,3 +33,4 @@
 | 2023-05-22 | [이항계수](https://www.acmicpc.net/problem/11050)               | ❌     | ✅     | ✅     | ✅     |
 | 2023-05-23 | [2xn 타일링](https://www.acmicpc.net/problem/11726)             | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-24 | [ATM](https://www.acmicpc.net/problem/11399)                    |        |        |        | ✅     |
+| 2023-05-25 | [1로 만들기](https://www.acmicpc.net/problem/1463)              |        |        |        | ✅     |
