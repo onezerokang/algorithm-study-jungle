@@ -26,4 +26,4 @@
    8. [[2023.05.23][11726][dp] DAY15 : 2xn 타일링](https://www.acmicpc.net/source/61162799)
    9. [[2023.05.24][11399][bruteforce] DAY16 : ATM ](https://www.acmicpc.net/source/61213691)
    10. [[2023.05.25][1463][dp] DAY17 : 1로 만들기](https://www.acmicpc.net/source/60497064)
-   11. [[2023.05.26][11870][sort] DAY18 : 좌표 압축 ](https://www.acmicpc.net/source/61213691)
+   11. [[2023.05.26][11870][sort] DAY18 : 좌표 압축 ](https://www.acmicpc.net/source/61309464)
