@@ -30,3 +30,4 @@
    4. [[2023.05.26][11870][sort] DAY18 : 좌표 압축 ](https://www.acmicpc.net/source/61309464)
    5. [[2023.05.27][1697][bfs] DAY19 : 숨바꼭질 ](https://www.acmicpc.net/source/61348242)
    6. [[2023.05.28][1620][data structure][hash][map] DAY20 : 나는야 포켓몬 마스터 이다솜 ](https://www.acmicpc.net/source/61385991)
+   7. [[2023.05.28][11723][implementation][bit-masking] DAY21 : 집합 ](https://www.acmicpc.net/source/61385991)
