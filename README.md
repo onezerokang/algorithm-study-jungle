@@ -37,4 +37,4 @@
 | 2023-05-25 | [1로 만들기](https://www.acmicpc.net/problem/1463)                  | ✅     | ✅     | ✅     | ✅     |
 | 2023-05-26 | [좌표 압축](https://www.acmicpc.net/problem/18870)                  | ✅     | ❌     | ✅     | ✅     |
 | 2023-05-27 | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    |        | ✅     | ✅     | ✅     |
-| 2023-05-28 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |        | ✅     | ✅     | ✅     |
+| 2023-05-28 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | ✅     |        |        | ✅     |
