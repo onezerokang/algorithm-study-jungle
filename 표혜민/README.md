@@ -31,3 +31,5 @@
    5. [[2023.05.27][1697][bfs] DAY19 : 숨바꼭질 ](https://www.acmicpc.net/source/61348242)
    6. [[2023.05.28][1620][data structure][hash][map] DAY20 : 나는야 포켓몬 마스터 이다솜 ](https://www.acmicpc.net/source/61385991)
    7. [[2023.05.28][11723][implementation][bit-masking] DAY21 : 집합 ](https://www.acmicpc.net/source/61385991)
+4. **WEEK4**
+   1. [[2023.05.23][1021][bfs][dfs] DAY22 : 유기농 배추](https://www.acmicpc.net/source/61462908)
