@@ -2,7 +2,6 @@ import sys
 input = sys.stdin.readline
 from collections import deque
 
-
 queue = deque
 count = 0
 N, M = map(int, input().split())
