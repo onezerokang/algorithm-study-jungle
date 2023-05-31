@@ -39,6 +39,6 @@
 | 2023-05-27 | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | ❌           | ✅     | ✅     | ✅     |
 | 2023-05-28 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | ✅           | ✅     | ✅     | ✅     |
 | 2023-05-29 | [집합](https://www.acmicpc.net/problem/11723)                       | ✅           | ✅     | ✅     | ✅     |
-| 2023-05-30 | [회전하는 ](https://www.acmicpc.net/problem/1021)                 | ✅           | ❌       | ✅     | ✅     |
-| 2023-05-31 | [피보나치 함](https://www.acmicpc.net/problem/1003)                 |             |  ✅      | ✅     | ✅     |
+| 2023-05-30 | [회전하는 큐](https://www.acmicpc.net/problem/1021)                 | ✅           | ❌       | ✅     | ✅     |
+| 2023-05-31 | [피보나치 함수](https://www.acmicpc.net/problem/1003)                 |             |  ✅      | ✅     | ✅     |
 
