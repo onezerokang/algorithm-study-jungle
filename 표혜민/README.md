@@ -34,4 +34,5 @@
 4. **WEEK4**
    1. [[2023.05.29][1012][bfs][dfs] DAY22 : 유기농 배추](https://www.acmicpc.net/source/61462908)
    2. [[2023.05.31][1003][dp] DAY23 : 피보나치 함수](https://www.acmicpc.net/source/61514566)
-   3. [[2023.06.01][9375][] DAY24 : 패션왕 신해빈](https://www.acmicpc.net/source/61462908)
+   3. [[2023.06.01][9375][data structure] DAY24 : 패션왕 신해빈](https://www.acmicpc.net/source/61556459)
+   4. [[2023.06.02][1764][data structure] DAY25 : 듣보잡](https://www.acmicpc.net/source/61598460)
