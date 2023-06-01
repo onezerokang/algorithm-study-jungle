@@ -32,4 +32,6 @@
    6. [[2023.05.28][1620][data structure][hash][map] DAY20 : 나는야 포켓몬 마스터 이다솜 ](https://www.acmicpc.net/source/61385991)
    7. [[2023.05.28][11723][implementation][bit-masking] DAY21 : 집합 ](https://www.acmicpc.net/source/61385991)
 4. **WEEK4**
-   1. [[2023.05.23][1021][bfs][dfs] DAY22 : 유기농 배추](https://www.acmicpc.net/source/61462908)
+   1. [[2023.05.29][1012][bfs][dfs] DAY22 : 유기농 배추](https://www.acmicpc.net/source/61462908)
+   2. [[2023.05.31][1003][dp] DAY23 : 피보나치 함수](https://www.acmicpc.net/source/61514566)
+   3. [[2023.06.01][9375][] DAY24 : 패션왕 신해빈](https://www.acmicpc.net/source/61462908)
