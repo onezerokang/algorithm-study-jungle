@@ -40,8 +40,8 @@
 | 2023-05-28 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | ✅           | ✅     | ✅     | ✅     |
 | 2023-05-29 | [집합](https://www.acmicpc.net/problem/11723)                       | ✅           | ✅     | ✅     | ✅     |
 | 2023-05-30 | [유기농 배추](https://www.acmicpc.net/problem/1012)                 | ✅           | ❌     | ✅     | ✅     |
-| 2023-05-30 | [회전하는 큐](https://www.acmicpc.net/problem/1021)                 |              |        | ✅     |        |
+| 2023-05-30 | [회전하는 큐](https://www.acmicpc.net/problem/1021)                 |              |   ❌     | ✅     |        |
 | 2023-05-31 | [피보나치 함수](https://www.acmicpc.net/problem/1003)               |              | ✅     | ✅     | ✅     |
-| 2023-06-01 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)               |              |   ✅     |        | ✅     |
+| 2023-06-01 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)               |              |   ✅     | ✅       | ✅     |
 | 2023-06-01 | [듣보잡](https://www.acmicpc.net/problem/1764)               |              |   ✅     |        | ✅     |
 
