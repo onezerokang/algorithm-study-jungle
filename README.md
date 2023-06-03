@@ -44,3 +44,4 @@
 | 2023-05-31 | [피보나치 함수](https://www.acmicpc.net/problem/1003)               |              | ✅     | ✅     | ✅     |
 | 2023-06-01 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)               |              |        |        | ✅     |
 | 2023-06-02 | [듣보잡](https://www.acmicpc.net/problem/1764)                      |              |        |        | ✅     |
+| 2023-06-03 | [토마토](https://www.acmicpc.net/problem/7576)                      | ✅           |        |        | ✅     |
