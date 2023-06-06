@@ -47,4 +47,5 @@
 | 2023-06-03 | [토마토](https://www.acmicpc.net/problem/7576)                      | ✅           | ✅           | ✅     | ✅     |
 | 2023-06-04 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | ✅           |              |        | ✅     |
 | 2023-06-05 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)              | ✅           |              | ✅     | ✅     |
-| 2023-06-06 | [구간합 구하기 ](https://www.acmicpc.net/problem/14940)             | ✅           |              | ✅     | ✅     |
+| 2023-06-06 | [구간합 구하기 4](https://www.acmicpc.net/problem/11659)            | ✅           |              | ✅     | ✅     |
+| 2023-06-07 | [최소힙 ](https://www.acmicpc.net/problem/1927)                     | ✅           |              |        | ✅     |
