@@ -39,3 +39,4 @@
    5. [[2023.06.03][7576][bfs] DAY26 : 토마토](https://www.acmicpc.net/source/61598460)
    6. [[2023.06.04][7662][] DAY27 : 이중 우선순위 큐](https://www.acmicpc.net/source/)
    7. [[2023.06.05][14940][bfs] DAY28 : 쉬운 최단거리](https://www.acmicpc.net/source/61712323)
+   8. [[2023.06.06][11659][prefix sum] DAY29 : 구간 합 구하기](https://www.acmicpc.net/source/61757027)

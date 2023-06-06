@@ -46,4 +46,5 @@
 | 2023-06-02 | [듣보잡](https://www.acmicpc.net/problem/1764)                      |              | ✅           | ✅     | ✅     |
 | 2023-06-03 | [토마토](https://www.acmicpc.net/problem/7576)                      | ✅           | ✅           | ✅     | ✅     |
 | 2023-06-04 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | ✅           |              |        | ✅     |
-| 2023-06-05 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)              |              |              |        | ✅     |
+| 2023-06-05 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)              | ✅           |              | ✅     | ✅     |
+| 2023-06-06 | [구간합 구하기 ](https://www.acmicpc.net/problem/14940)             | ✅           |              | ✅     | ✅     |
