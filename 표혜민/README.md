@@ -43,3 +43,4 @@
    1. [[2023.06.06][11659][prefix sum] DAY29 : 구간 합 구하기](https://www.acmicpc.net/source/61757027)
    2. [[2023.06.07][1927][priority queue][data structure] DAY30 : 구간 합 구하기](https://www.acmicpc.net/source/61796004)
    3. [[2023.06.07][1546][math] DAY30 : 평균](https://www.acmicpc.net/source/61796004)
+   4. [[2023.06.08][1149][dp] DAY31 : RGB거리](https://www.acmicpc.net/source/61840697)
