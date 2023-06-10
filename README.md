@@ -51,3 +51,4 @@
 | 2023-06-07 | [최소힙 ](https://www.acmicpc.net/problem/1927)                     | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-08 | [RGB거리](https://www.acmicpc.net/problem/1149)                     | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-09 | [1918](https://www.acmicpc.net/problem/1918)                        | ✅           | ✅           |        | ✅           |
+| 2023-06-09 | [1932](https://www.acmicpc.net/problem/1932)                        | ✅           |              |        | ✅           |
