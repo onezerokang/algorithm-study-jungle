@@ -45,3 +45,4 @@
    3. [[2023.06.07][1546][math] DAY30 : 평균](https://www.acmicpc.net/source/61796004)
    4. [[2023.06.08][1149][dp] DAY31 : RGB거리](https://www.acmicpc.net/source/61840697)
    5. [[2023.06.09][1918][data structure] DAY32 : 후위 표기식](https://www.acmicpc.net/source/61896989)
+   6. [[2023.06.10][1932][dp] DAY33 : 정수 삼각형](https://www.acmicpc.net/source/61913776)
