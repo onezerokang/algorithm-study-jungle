@@ -51,4 +51,4 @@
 | 2023-06-07 | [최소힙 ](https://www.acmicpc.net/problem/1927)                     | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-08 | [RGB거리](https://www.acmicpc.net/problem/1149)                     | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-09 | [후위표기식](https://www.acmicpc.net/problem/1918)                        | ✅           | ✅           |    ✅    | ✅           |
-| 2023-06-09 | [](https://www.acmicpc.net/problem/1932)                        | ✅           |    ✅          |        | ✅           |
+| 2023-06-09 | [정수삼각형](https://www.acmicpc.net/problem/1932)                        | ✅           |    ✅          |        | ✅           |
