@@ -50,5 +50,5 @@
 | 2023-06-06 | [구간합 구하기 4](https://www.acmicpc.net/problem/11659)            | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-07 | [최소힙 ](https://www.acmicpc.net/problem/1927)                     | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-08 | [RGB거리](https://www.acmicpc.net/problem/1149)                     | ✅           | ✅           | ✅     | ✅           |
-| 2023-06-09 | [후위표기식](https://www.acmicpc.net/problem/1918)                        | ✅           | ✅           |    ✅    | ✅           |
-| 2023-06-09 | [정수삼각형](https://www.acmicpc.net/problem/1932)                        | ✅           |    ✅          |        | ✅           |
+| 2023-06-09 | [후위표기식](https://www.acmicpc.net/problem/1918)                  | ✅           | ✅           | ✅     | ✅           |
+| 2023-06-10 | [스티커](https://www.acmicpc.net/problem/1932)                      | ✅           | ✅           | ✅     | ✅           |
