@@ -54,3 +54,4 @@
 | 2023-06-10 | [정수삼각형](https://www.acmicpc.net/problem/1932)                  | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-11 | [스티커](https://www.acmicpc.net/problem/1932)                      | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-12 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)           |              |              |        | ✅           |
+| 2023-06-13 | [N과 M (2)](https://www.acmicpc.net/problem/15650)                  |              |              |        | ✅           |
