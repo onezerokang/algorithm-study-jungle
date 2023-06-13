@@ -49,4 +49,4 @@
    7. [[2023.06.11][9465][dp] DAY34 : 스티커](https://www.acmicpc.net/source/61946178)
 6. **WEEK6**
    1. [[2023.06.12][11660][dp] DAY35 : 구간 합 구하기](https://www.acmicpc.net/source/62006248)
-   2. [[2023.06.12][15650][backtracking] DAY36 :N과 M (2)](https://www.acmicpc.net/source/62017001)
+   2. [[2023.06.12][15650][backtracking] DAY36 :N과 M (2)](https://www.acmicpc.net/source/62017163)
