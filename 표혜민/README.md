@@ -49,5 +49,8 @@
    7. [[2023.06.11][9465][dp] DAY34 : 스티커](https://www.acmicpc.net/source/61946178)
 6. **WEEK6**
    1. [[2023.06.12][11660][dp] DAY35 : 구간 합 구하기](https://www.acmicpc.net/source/62006248)
-   2. [[2023.06.12][15650][backtracking] DAY36 :N과 M (2)](https://www.acmicpc.net/source/62017163)
-   3. [[2023.06.12][13549][dijkstra] DAY37 : 숨바꼭질 3](https://www.acmicpc.net/source/62095382)
+   2. [[2023.06.13][15650][backtracking] DAY36 :N과 M (2)](https://www.acmicpc.net/source/62017163)
+   3. [[2023.06.14][13549][dijkstra] DAY37 : 숨바꼭질 3](https://www.acmicpc.net/source/62095382)
+   <!-- 4. [[2023.06.15][11404][] DAY38 : ](https://www.acmicpc.net/source/62095382) -->
+   4. [[2023.06.15][1753][dijkstra] DAY38 : 최단경로](https://www.acmicpc.net/source/62127503)
+   5. [[2023.06.16][1629][divide and conquer] DAY39 : 곱셈](https://www.acmicpc.net/source/59566451)
