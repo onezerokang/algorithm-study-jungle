@@ -55,5 +55,7 @@
    4. [[2023.06.15][1753][dijkstra] DAY38 : 최단경로](https://www.acmicpc.net/source/62127503)
    5. [[2023.06.16][1629][divide and conquer] DAY39 : 곱셈](https://www.acmicpc.net/source/59566451)
    6. [[2023.06.17][2206][bfs] DAY40 : 벽 부수고 이동하기 ](https://www.acmicpc.net/source/62168222)
-   7. [[2023.06.17][15654][backtracking] DAY41 : N과 M (5) ](https://www.acmicpc.net/source/62203774)
-   8. [[2023.06.18][15663][backtracking] DAY41 : N과 M (9) ](https://www.acmicpc.net/source/62251126)
+   7. [[2023.06.18][15654][backtracking] DAY41 : N과 M (5) ](https://www.acmicpc.net/source/62203774)
+7. **WEEK6**
+   1. [[2023.06.19][15663][backtracking] DAY42 : N과 M (9) ](https://www.acmicpc.net/source/62251126)
+   2. [[2023.06.20][14888][backtracking][bruteforce] DAY43 : 연산자 끼워넣기 ](https://www.acmicpc.net/source/62312606)
