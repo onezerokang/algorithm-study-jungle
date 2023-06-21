@@ -1,26 +1,43 @@
-# https://www.acmicpc.net/problem/7662
-# logic
+import sys
 import heapq
-from sys import stdin
-T = int(stdin.readline().strip())
-for _ in range(T):
-    k = int(stdin.readline().strip())
-    q,rev_q = [],[]
-    # idx = 0
-    for i in range(k):
-        inst = stdin.readline().strip().split()
-        if inst[0] == 'I':
-            heapq.heappush(q, int(inst[1]))
-            heapq.heappush(rev_q, int(inst[1]))
-        if inst[0] == 'D' and q: 
-            if inst[1] == '-1': #최소값 제거
-                heapq.heappop(q)
-            elif inst[1] == '1': #최대값 제거
-                rev_q.reverse()
-                rev_q.pop()
-                print("q", q)
-                heapq.heapify([*rev_q])
-                print("rev_q", rev_q)
-                # print("rev_q", rev_q)
-    print("q", q)
-    print("EMPTY") if len(q) == 0 else print(q[-1], q[0])
+input = sys.stdin.readline
+t = int(input())
+
+for i in range(t):
+    k = int(input())
+    q1, q2 = [], []
+    visited = [False] * k
+
+    for j in range(k):
+        cmd, num = input().split()
+
+        if cmd == 'I':
+            heapq.heappush(q1, (int(num), j))
+            heapq.heappush(q2, (-int(num), j))
+            visited[j] = True
+
+        else:
+            if num == '1':
+                while q2 and not visited[q2[0][1]]:
+                    heapq.heappop(q2)
+                if q2:
+                    visited[q2[0][1]] = False
+                    heapq.heappop(q2)
+            else:
+                while q1 and not visited[q1[0][1]]:
+                    heapq.heappop(q1)
+                if q1:
+                    visited[q1[0][1]] = False
+                    heapq.heappop(q1)
+
+    while q1 and not visited[q1[0][1]]:
+        heapq.heappop(q1)
+    while q2 and not visited[q2[0][1]]:
+        heapq.heappop(q2)
+
+    if not q1 or not q2:
+        print("EMPTY")
+    else:
+        a = -q2[0][0]
+        b = q1[0][0]
+        print("%d %d" % (a, b))
