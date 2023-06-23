@@ -55,8 +55,8 @@
 | 2023-06-11 | [스티커](https://www.acmicpc.net/problem/1932)                      | ✅           | ✅           | ✅     | ✅           |
 | 2023-06-12 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)           |              |   ✅           |   ✅    |     ✅  |
 | 2023-06-13 | [N과 M (2)](https://www.acmicpc.net/problem/15650)                  |              |  ✅            |        | ✅           |
-| 2023-06-14 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                 |              |    ❌          | ✅     |              |
-| 2023-06-15 | [플로이드](https://www.acmicpc.net/problem/11404)                   |              |     ❌         | ✅     |              |
+| 2023-06-14 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                 |              |    ❌          | ✅     |    ✅          |
+| 2023-06-15 | [플로이드](https://www.acmicpc.net/problem/11404)                   |              |     ❌         | ✅     |        ❌       |
 | 2023-06-16 | [곱셈](https://www.acmicpc.net/problem/1629)                        |              |   ✅           |        | ✅           |
 | 2023-06-17 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)          |              |    ✅          |                  | ✅  |
 | 2023-06-18 | [N과 M (5)](https://www.acmicpc.net/problem/15654)                  | ✅           | ✅           | ✅           | ✅  |
