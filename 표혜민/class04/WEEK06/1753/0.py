@@ -4,7 +4,7 @@ from heapq import heappush, heappop
 V,E = map(int, stdin.readline().strip().split())
 inf = maxsize
 S = int(stdin.readline().strip())
-dp = [inf]*(V+1) #방문야부
+dp = [inf]*(V+1) #방문여부
 heap = []
 g = [[] for _ in range(V+1)]
 
