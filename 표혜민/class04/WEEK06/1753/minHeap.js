@@ -59,3 +59,19 @@ class MinHeap {
     return min;
   }
 }
+
+const hp = new MinHeap();
+hp.heappush(1);
+hp.heappush(2);
+hp.heappush(3);
+hp.heappush(4);
+hp.heappush(5);
+hp.heappush(5);
+hp.heappush(6);
+hp.heappush(5);
+hp.heappush(6);
+console.log(hp);
+while (hp.size() > 0) {
+  const a = hp.heappop();
+  console.log(a);
+}

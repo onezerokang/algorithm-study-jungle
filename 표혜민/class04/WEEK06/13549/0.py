@@ -28,6 +28,7 @@ def dijkstra(n, k):
                 elif dp[nx] == inf: # 그외에 1씩 앞으로 가줘야할 때 (방문 X)
                     dp[nx] = w + 1
                     heappush(heap, [w + 1, nx])
+    print(dp)
     print(dp[k])
 
 

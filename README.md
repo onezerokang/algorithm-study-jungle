@@ -37,7 +37,7 @@
 | 2023-05-25 | [1로 만들기](https://www.acmicpc.net/problem/1463)                  | `2023.05.30` | ✅           | ✅     | ✅           |
 | 2023-05-26 | [좌표 압축](https://www.acmicpc.net/problem/18870)                  | ✅           | `2023.06.02` | ✅     | ✅           |
 | 2023-05-27 | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | ❌           | ✅           | ✅     | ✅           |
-| 2023-05-28 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)     | ✅           | ✅        | ✅     | ✅           |
+| 2023-05-28 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | ✅           | ✅           | ✅     | ✅           |
 | 2023-05-29 | [집합](https://www.acmicpc.net/problem/11723)                       | ✅           | ✅           | ✅     | ✅           |
 | 2023-05-30 | [유기농 배추](https://www.acmicpc.net/problem/1012)                 | ✅           | ❌           | ✅     | ✅           |
 | 2023-05-30 | [회전하는 큐](https://www.acmicpc.net/problem/1021)                 |              | ❌           | ✅     | `2023.05.31` |
@@ -62,3 +62,5 @@
 | 2023-06-18 | [N과 M (5)](https://www.acmicpc.net/problem/15654)                  | ✅           | ✅           | ✅           | ✅  |
 | 2023-06-19 | [N과 M (9)](https://www.acmicpc.net/problem/15654)                  |              |              |                   | ✅  |
 | 2023-06-20 | [최단경로](https://www.acmicpc.net/problem/1753)                    | ✅           |              |                   | ✅  |
+| 2023-06-22 | [웜홀](https://www.acmicpc.net/problem/1865)                        | ✅           | ✅           |        | `벨만포드 공부 후 풀이 예정` |
+| 2023-06-23 | [파티](https://www.acmicpc.net/problem/1238)                        |              |              |       | ✅                           |
