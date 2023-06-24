@@ -63,3 +63,5 @@
    4. [[2023.06.22][1330][implementation] DAY44 : 두 수 비교하기](https://www.acmicpc.net/source/62400515)
    5. [[2023.06.23][1238][dijkstra] DAY44 : 파티](https://www.acmicpc.net/source/62422606)
    6. [[2023.06.24][11444][divide and conquer using power of N] DAY45 : 피보나치 수 6](https://www.acmicpc.net/source/62457856)
+   7. [[2023.06.24][1504][dijkstra] DAY45 : 특정한 최단 경로](https://www.acmicpc.net/source/62460477)
+   8. [[2023.06.24][1238][dijkstra] DAY44 : 파티](https://www.acmicpc.net/source/62460959)
