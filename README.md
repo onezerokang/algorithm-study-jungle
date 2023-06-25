@@ -60,9 +60,9 @@
 | 2023-06-16 | [곱셈](https://www.acmicpc.net/problem/1629)                        |              | ✅           |        | ✅                                |
 | 2023-06-17 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)          |              | ✅           |        | ✅                                |
 | 2023-06-18 | [N과 M (5)](https://www.acmicpc.net/problem/15654)                  | ✅           | ✅           | ✅     | ✅                                |
-| 2023-06-19 | [N과 M (9)](https://www.acmicpc.net/problem/15654)                  |              |              |        | ✅                                |
-| 2023-06-20 | [최단경로](https://www.acmicpc.net/problem/1753)                    | ✅           |              |        | ✅                                |
+| 2023-06-19 | [N과 M (9)](https://www.acmicpc.net/problem/15654)                  |              | ✅           |        | ✅                                |
+| 2023-06-20 | [최단경로](https://www.acmicpc.net/problem/1753)                    | ✅           | ❌           |        | ✅                                |
 | 2023-06-22 | [웜홀](https://www.acmicpc.net/problem/1865)                        | ✅           | ✅           |        | `벨만포드 공부 후 풀이 예정`      |
-| 2023-06-23 | [파티](https://www.acmicpc.net/problem/1238)                        |              | ✅           | ✅     | ✅                                |
+| 2023-06-23 | [파티](https://www.acmicpc.net/problem/1238)                        |              | ✅           |        | ✅                                |
 | 2023-06-24 | [피보나치 수 6](https://www.acmicpc.net/problem/11444)              |              | ✅           | ✅     | ✅                                |
 | 2023-06-25 | [트리의 지름](https://www.acmicpc.net/problem/1167)                 |              |              |        | ✅                                |
