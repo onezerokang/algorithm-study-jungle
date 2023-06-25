@@ -22,45 +22,47 @@
 - ❌ : 미제출
 - `20X.XX.XX`: 추후 제출일
 
-| 날짜       | 문제                                                                | 강원영       | 박주영       | 장재균 | 표혜민       |
-| ---------- | ------------------------------------------------------------------- | ------------ | ------------ | ------ | ------------ |
-| 2023-05-15 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)          | ✅           |              |        | ✅           |
-| 2023-05-16 | [큐](https://www.acmicpc.net/problem/10845)                         | ✅           |              |        | ✅           |
-| 2023-05-17 | [덱](https://www.acmicpc.net/problem/10866)                         | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-18 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)                | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-19 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)     | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-20 | [블랙잭](https://www.acmicpc.net/problem/2798)                      | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-21 | [설탕배달](https://www.acmicpc.net/problem/2839)                    | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-22 | [이항계수](https://www.acmicpc.net/problem/11050)                   | ❌           | ✅           | ✅     | ✅           |
-| 2023-05-23 | [2xn 타일링](https://www.acmicpc.net/problem/11726)                 | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-24 | [ATM](https://www.acmicpc.net/problem/11399)                        | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-25 | [1로 만들기](https://www.acmicpc.net/problem/1463)                  | `2023.05.30` | ✅           | ✅     | ✅           |
-| 2023-05-26 | [좌표 압축](https://www.acmicpc.net/problem/18870)                  | ✅           | `2023.06.02` | ✅     | ✅           |
-| 2023-05-27 | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | ❌           | ✅           | ✅     | ✅           |
-| 2023-05-28 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-29 | [집합](https://www.acmicpc.net/problem/11723)                       | ✅           | ✅           | ✅     | ✅           |
-| 2023-05-30 | [유기농 배추](https://www.acmicpc.net/problem/1012)                 | ✅           | ❌           | ✅     | ✅           |
-| 2023-05-30 | [회전하는 큐](https://www.acmicpc.net/problem/1021)                 |              | ❌           | ✅     | `2023.05.31` |
-| 2023-05-31 | [피보나치 함수](https://www.acmicpc.net/problem/1003)               |              | ✅           | ✅     | ✅           |
-| 2023-06-01 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)               |              | ✅           | ✅     | ✅           |
-| 2023-06-02 | [듣보잡](https://www.acmicpc.net/problem/1764)                      |              | ✅           | ✅     | ✅           |
-| 2023-06-03 | [토마토](https://www.acmicpc.net/problem/7576)                      | ✅           | ✅           | ✅     | ✅           |
-| 2023-06-04 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | ✅           | ✅           |        | ✅           |
-| 2023-06-05 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)              | ✅           | `2023.06.06` | ✅     | ✅           |
-| 2023-06-06 | [구간합 구하기 4](https://www.acmicpc.net/problem/11659)            | ✅           | ✅           | ✅     | ✅           |
-| 2023-06-07 | [최소힙 ](https://www.acmicpc.net/problem/1927)                     | ✅           | ✅           | ✅     | ✅           |
-| 2023-06-08 | [RGB거리](https://www.acmicpc.net/problem/1149)                     | ✅           | ✅           | ✅     | ✅           |
-| 2023-06-09 | [후위표기식](https://www.acmicpc.net/problem/1918)                  | ✅           | ✅           | ✅     | ✅           |
-| 2023-06-10 | [정수삼각형](https://www.acmicpc.net/problem/1932)                  | ✅           | ✅           | ✅     | ✅           |
-| 2023-06-11 | [스티커](https://www.acmicpc.net/problem/1932)                      | ✅           | ✅           | ✅     | ✅           |
-| 2023-06-12 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)           |              |   ✅           |   ✅    |     ✅  |
-| 2023-06-13 | [N과 M (2)](https://www.acmicpc.net/problem/15650)                  |              |  ✅            |        | ✅           |
-| 2023-06-14 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                 |              |    ❌          | ✅     |    ✅          |
-| 2023-06-15 | [플로이드](https://www.acmicpc.net/problem/11404)                   |              |     ❌         | ✅     |        `플로이드 러셀 공부 후 풀이 예정`       |
-| 2023-06-16 | [곱셈](https://www.acmicpc.net/problem/1629)                        |              |   ✅           |        | ✅           |
-| 2023-06-17 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)          |              |    ✅          |                  | ✅  |
-| 2023-06-18 | [N과 M (5)](https://www.acmicpc.net/problem/15654)                  | ✅           | ✅           | ✅           | ✅  |
-| 2023-06-19 | [N과 M (9)](https://www.acmicpc.net/problem/15654)                  |              |   ✅           |                   | ✅  |
-| 2023-06-20 | [최단경로](https://www.acmicpc.net/problem/1753)                    | ✅           |   ❌           |                   | ✅  |
-| 2023-06-22 | [웜홀](https://www.acmicpc.net/problem/1865)                        | ✅           | ✅           |        | `벨만포드 공부 후 풀이 예정` |
-| 2023-06-23 | [파티](https://www.acmicpc.net/problem/1238)                        |              |   ✅           |       | ✅                           |
+| 날짜       | 문제                                                                | 강원영       | 박주영       | 장재균 | 표혜민                            |
+| ---------- | ------------------------------------------------------------------- | ------------ | ------------ | ------ | --------------------------------- |
+| 2023-05-15 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)          | ✅           |              |        | ✅                                |
+| 2023-05-16 | [큐](https://www.acmicpc.net/problem/10845)                         | ✅           |              |        | ✅                                |
+| 2023-05-17 | [덱](https://www.acmicpc.net/problem/10866)                         | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-18 | [숫자 카드 2](https://www.acmicpc.net/problem/10816)                | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-19 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)     | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-20 | [블랙잭](https://www.acmicpc.net/problem/2798)                      | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-21 | [설탕배달](https://www.acmicpc.net/problem/2839)                    | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-22 | [이항계수](https://www.acmicpc.net/problem/11050)                   | ❌           | ✅           | ✅     | ✅                                |
+| 2023-05-23 | [2xn 타일링](https://www.acmicpc.net/problem/11726)                 | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-24 | [ATM](https://www.acmicpc.net/problem/11399)                        | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-25 | [1로 만들기](https://www.acmicpc.net/problem/1463)                  | `2023.05.30` | ✅           | ✅     | ✅                                |
+| 2023-05-26 | [좌표 압축](https://www.acmicpc.net/problem/18870)                  | ✅           | `2023.06.02` | ✅     | ✅                                |
+| 2023-05-27 | [숨바꼭질](https://www.acmicpc.net/problem/1697)                    | ❌           | ✅           | ✅     | ✅                                |
+| 2023-05-28 | [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-29 | [집합](https://www.acmicpc.net/problem/11723)                       | ✅           | ✅           | ✅     | ✅                                |
+| 2023-05-30 | [유기농 배추](https://www.acmicpc.net/problem/1012)                 | ✅           | ❌           | ✅     | ✅                                |
+| 2023-05-30 | [회전하는 큐](https://www.acmicpc.net/problem/1021)                 |              | ❌           | ✅     | `2023.05.31`                      |
+| 2023-05-31 | [피보나치 함수](https://www.acmicpc.net/problem/1003)               |              | ✅           | ✅     | ✅                                |
+| 2023-06-01 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375)               |              | ✅           | ✅     | ✅                                |
+| 2023-06-02 | [듣보잡](https://www.acmicpc.net/problem/1764)                      |              | ✅           | ✅     | ✅                                |
+| 2023-06-03 | [토마토](https://www.acmicpc.net/problem/7576)                      | ✅           | ✅           | ✅     | ✅                                |
+| 2023-06-04 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)            | ✅           | ✅           |        | ✅                                |
+| 2023-06-05 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)              | ✅           | `2023.06.06` | ✅     | ✅                                |
+| 2023-06-06 | [구간합 구하기 4](https://www.acmicpc.net/problem/11659)            | ✅           | ✅           | ✅     | ✅                                |
+| 2023-06-07 | [최소힙 ](https://www.acmicpc.net/problem/1927)                     | ✅           | ✅           | ✅     | ✅                                |
+| 2023-06-08 | [RGB거리](https://www.acmicpc.net/problem/1149)                     | ✅           | ✅           | ✅     | ✅                                |
+| 2023-06-09 | [후위표기식](https://www.acmicpc.net/problem/1918)                  | ✅           | ✅           | ✅     | ✅                                |
+| 2023-06-10 | [정수삼각형](https://www.acmicpc.net/problem/1932)                  | ✅           | ✅           | ✅     | ✅                                |
+| 2023-06-11 | [스티커](https://www.acmicpc.net/problem/1932)                      | ✅           | ✅           | ✅     | ✅                                |
+| 2023-06-12 | [구간 합 구하기 5](https://www.acmicpc.net/problem/11660)           |              | ✅           | ✅     | ✅                                |
+| 2023-06-13 | [N과 M (2)](https://www.acmicpc.net/problem/15650)                  |              | ✅           |        | ✅                                |
+| 2023-06-14 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549)                 |              | ❌           | ✅     | ✅                                |
+| 2023-06-15 | [플로이드](https://www.acmicpc.net/problem/11404)                   |              | ❌           | ✅     | `플로이드 러셀 공부 후 풀이 예정` |
+| 2023-06-16 | [곱셈](https://www.acmicpc.net/problem/1629)                        |              | ✅           |        | ✅                                |
+| 2023-06-17 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)          |              | ✅           |        | ✅                                |
+| 2023-06-18 | [N과 M (5)](https://www.acmicpc.net/problem/15654)                  | ✅           | ✅           | ✅     | ✅                                |
+| 2023-06-19 | [N과 M (9)](https://www.acmicpc.net/problem/15654)                  |              | ✅           |        | ✅                                |
+| 2023-06-20 | [최단경로](https://www.acmicpc.net/problem/1753)                    | ✅           | ❌           |        | ✅                                |
+| 2023-06-22 | [웜홀](https://www.acmicpc.net/problem/1865)                        | ✅           | ✅           |        | `벨만포드 공부 후 풀이 예정`      |
+| 2023-06-23 | [파티](https://www.acmicpc.net/problem/1238)                        |              | ✅           |        | ✅                                |
+| 2023-06-24 | [피보나치 수 6](https://www.acmicpc.net/problem/11444)              |              | ✅           | ✅     | ✅                                |
+| 2023-06-25 | [트리의 지름](https://www.acmicpc.net/problem/1167)                 |              |              |        | ✅                                |
