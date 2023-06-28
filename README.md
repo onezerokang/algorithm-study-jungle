@@ -65,5 +65,5 @@
 | 2023-06-22 | [웜홀](https://www.acmicpc.net/problem/1865)                        | ✅           | ✅           |        | `벨만포드 공부 후 풀이 예정`      |
 | 2023-06-23 | [파티](https://www.acmicpc.net/problem/1238)                        |              | ✅           |        | ✅                                |
 | 2023-06-24 | [피보나치 수 6](https://www.acmicpc.net/problem/11444)              |              | ✅           | ✅     | ✅                                |
-| 2023-06-25 | [트리의 지름](https://www.acmicpc.net/problem/1167)                 |              |              |        | ✅                                |
-| 2023-06-27 | [트리의 지름](https://www.acmicpc.net/problem/1967)                 |              |              |        | ✅                                |
+| 2023-06-25 | [트리의 지름](https://www.acmicpc.net/problem/1167)                 |              |    ✅          |        | ✅                                |
+| 2023-06-27 | [트리의 지름](https://www.acmicpc.net/problem/1967)                 |              |    ✅          |        | ✅                                |
