@@ -31,15 +31,12 @@ m, n = map(int, input.split())
 
 dv= int(pow(n,0.5)) #n의 약수는 (n ** 0.5) 이하(n의 제곱근). 따라서 (n ** 0.5)까지만 계산하기
 are_prime = [True] * (dv + 1) #소수여부 판별 리스트
-print(dv)
 are_prime[1] = False
 for i in range(2, dv + 1): #소수 여부 따지기
-    print("i",i)
     if are_prime[i]:
         if i * i > dv:
             break
         for j in range(pow(i,2), dv + 1, i):
-            print(j)
             are_prime[j] = False
 
 count = 0
